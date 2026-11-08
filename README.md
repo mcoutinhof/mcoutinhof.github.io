@@ -1,3 +1,7 @@
 # mcoutinhof.github.io
 
-Raiz do site: leva ao [Transposer](https://mcoutinhof.github.io/transposer/) e guarda favicon, robots.txt e verificações de buscadores.
+Página inicial com as ferramentas de Mateus Coutinho:
+
+- [Transposer](https://mcoutinhof.github.io/transposer/): mudar o tom de cifras em PDF
+
+Também guarda favicon, robots.txt, sitemap e verificações de buscadores.
